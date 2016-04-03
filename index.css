@@ -6785,3 +6785,6 @@ body {
 .red {
   color: #f00;
 }
+.auto {
+  margin: 0 auto;
+}
