@@ -6788,3 +6788,7 @@ body {
 .auto {
   margin: 0 auto;
 }
+.img-block {
+  width: 360px;
+  height: 360px;
+}
