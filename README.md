@@ -1,6 +1,9 @@
 # V13-SL
 
-Uma simples página criada p/ organização do evento (acampamento).
+![Camping](media/camping.jpg "Camping")
+
+Uma simples página criada para organização do acampamento para a **Ferrovia do Trigo – Vespasiano Correa – V13/ Rio Grande do Sul**.
 
 ## License
-MIT licensed.
+This software is licensed under the [MIT License](hhttps://opensource.org/licenses/MIT). For more
+information, read [LICENSE](LICENSE).
