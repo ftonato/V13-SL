@@ -6783,12 +6783,13 @@ body {
   color: #fff;
 }
 .red {
-  color: #f00;
+  color: #e74c3c;
+  font-weight: bold;
 }
 .auto {
   margin: 0 auto;
 }
 .img-block {
-  width: 360px;
-  height: 360px;
+  width: 180px;
+  height: 180px;
 }
